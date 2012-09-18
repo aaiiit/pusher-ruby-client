@@ -1,0 +1,6 @@
+h1. Pusher Client Example
+
+
+    A web client for pusher. I wanted to create an client external to the server app, as sockets authentication for pusher private channels
+    works different on each case. This is a very basic example and I am a newbie on pusher, but I will keep working on it
+
